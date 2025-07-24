@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **Mobile App** project aimed at solving real-world problems through
       intuitive user interfaces and efficient backend logic.
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Java** to strengthen my <img align="right" alt="Coding Girl" width="350" src="[https://github.com/shivadeepthi15/shivadeepthi15/blob/main/Focused%20Developer%20at%20Work.png]" />
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Java** to strengthen my <img src="https://github.com/shivadeepthi15/shivadeepthi15/blob/main/Focused%20Developer%20at%20Work.png" align ="right" alt="Girl Coder gif" width="300"/>
      problem-solving skills and dive deeper into intelligent application development.
 - 💬 Ask me about **Python, Java, Machine Learning, ReactJS, SQL, and building smart mobile apps**.
        I'm always happy to share what I know and learn together!
