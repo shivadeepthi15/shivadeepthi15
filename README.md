@@ -1,12 +1,15 @@
 <!-- Header image -->
 
-# Hi 👋, I'm Your Name
+# Hi 👋, I'm Your Shiva Deepthi
 
 ### A passionate engineer from India
 
-- 🔭 I’m currently working on a **Mobile App** project aimed at solving real-world problems through intuitive user interfaces and efficient backend logic.
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Java** to strengthen my problem-solving skills and dive deeper into intelligent application development.
-- 💬 Ask me about **Python, Java, Machine Learning, ReactJS, SQL, and building smart mobile apps**. I'm always happy to share what I know and learn together!
+- 🔭 I’m currently working on a **Mobile App** project aimed at solving real-world problems through
+      intuitive user interfaces and efficient backend logic.
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Java** to strengthen my<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b32828d6a5d8bcecc3.gif" />
+     problem-solving skills and dive deeper into intelligent application development.
+- 💬 Ask me about **Python, Java, Machine Learning, ReactJS, SQL, and building smart mobile apps**.
+       I'm always happy to share what I know and learn together!
 - 📫 How to reach me: **shivadeepthi53@gmail.com**
 
 
